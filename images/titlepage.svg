@@ -9,7 +9,7 @@
 		}
 
 		.title{
-			font-size: 93.56725311px;
+			font-size: 90px;
 		}
 
 		.author{
@@ -27,8 +27,8 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">THE NICOMACHEAN</text>
-	<text class="title" x="700" y="230">ETHICS</text>
+	<text class="title" x="700" y="130">THE</text>
+	<text class="title" x="700" y="230">NICOMACHEAN ETHICS</text>
 	<text class="author" x="700" y="390">ARISTOTLE</text>
 	<text class="contributor-descriptor" x="700" y="580">translated by</text>
 	<text class="contributor" x="700" y="640">F.H. PETERS</text>
