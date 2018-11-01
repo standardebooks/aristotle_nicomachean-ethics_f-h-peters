@@ -28,7 +28,7 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">The Nicomachean Ethics</dc:title>
+		<dc:title id="title">Nicomachean Ethics</dc:title>
 		<meta property="file-as" refines="#title">Nicomachean Ethics, The</meta>
 		<dc:subject id="subject-1">Ethics</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/2006283439</meta>
@@ -36,7 +36,7 @@
 		<dc:description id="description">Aristotle examines how one may live in the most thriving, excellent manner.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-      &lt;p&gt;Aristotle examines how best to live by looking at the nature of those virtues that characterize the most thriving human beings, and then at how to acquire and develop such virtues. This book is considered the founding document of what is now known as the “virtue ethics” tradition.&lt;/p&gt;&lt;p&gt;Along the way, Aristotle delves into pleasure, happiness, justice, friendship, and willpower.&lt;/p&gt;&lt;p&gt;He intended &lt;i&gt;The Nicomachean Ethics&lt;/i&gt; to be the foundation on which to build his &lt;i&gt;Politics&lt;/i&gt;.&lt;/p&gt;
+      &lt;p&gt;Aristotle examines how best to live by looking at the nature of those virtues that characterize the most thriving human beings, and then at how to acquire and develop such virtues. This book is considered the founding document of what is now known as the “virtue ethics” tradition.&lt;/p&gt;&lt;p&gt;Along the way, Aristotle delves into pleasure, happiness, justice, friendship, and willpower.&lt;/p&gt;&lt;p&gt;He intended the &lt;i&gt;Nicomachean Ethics&lt;/i&gt; to be the foundation on which to build his &lt;i&gt;Politics&lt;/i&gt;.&lt;/p&gt;
       </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
