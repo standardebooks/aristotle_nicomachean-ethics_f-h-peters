@@ -38,7 +38,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description"> &lt;p&gt;Aristotle examines how best to live by looking at the nature of those virtues that characterize the most thriving human beings, and then at how to acquire and develop such virtues. This book is considered the founding document of what is now known as the “virtue ethics” tradition.&lt;/p&gt;&lt;p&gt;Along the way, Aristotle delves into pleasure, happiness, justice, friendship, and willpower.&lt;/p&gt;&lt;p&gt;He intended &lt;i&gt;The Nicomachean Ethics&lt;/i&gt; to be the foundation on which to build his &lt;i&gt;Politics&lt;/i&gt;.&lt;/p&gt; </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>https://www.dropbox.com/s/vzpwxpihmrf3ci8/Peters.pdf</dc:source>
+		<dc:source>https://archive.org/details/nicomachean00aris</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Nicomachean_Ethics</meta>
