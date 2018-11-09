@@ -28,3 +28,12 @@ p span.i2{
 #conspectus table{
 	margin: auto;
 }
+
+.signature{
+	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
