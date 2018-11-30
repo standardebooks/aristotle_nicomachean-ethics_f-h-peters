@@ -20,11 +20,15 @@
 	text-indent: 0;
 }
 
-p span.i2{
-	text-indent: -1em;
-	padding-left: 3em;
+#conspectus table{
+	margin: auto;
 }
 
-table.conspectus{
-	margin: auto;
+.signature{
+	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
 }
