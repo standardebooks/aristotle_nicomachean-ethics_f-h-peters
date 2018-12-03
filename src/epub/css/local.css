@@ -37,3 +37,18 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+figure{
+	margin: 1em auto;
+	text-align: center;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figure + p{
+	text-indent: 0;
+}
