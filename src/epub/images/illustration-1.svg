@@ -23,11 +23,11 @@
 	<path d="M 459,405 V 375"/>
 	<text x="458" y="60">E</text>
 	<text x="234" y="60">A</text>
-	<text x="1159" y="62">Aʹ</text>
+	<text x="1159" y="62">A′</text>
 	<text x="234" y="208">B</text>
-	<text x="1159" y="210">Bʹ</text>
+	<text x="1159" y="210">B′</text>
 	<text x="23" y="357">D</text>
 	<text x="234" y="357">C</text>
 	<text x="458" y="357">Z</text>
-	<text x="1159" y="359">Cʹ</text>
+	<text x="1159" y="359">C′</text>
 </svg>
