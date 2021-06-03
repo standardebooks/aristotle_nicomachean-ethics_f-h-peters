@@ -24,10 +24,6 @@
 	display: none;
 }
 
-#conspectus table{
-	margin: auto;
-}
-
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
