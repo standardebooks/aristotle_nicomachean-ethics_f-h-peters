@@ -33,6 +33,8 @@
 		<dc:subject id="subject-1">Ethics</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85045096</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Aristotle examines how one may live in the most thriving, excellent manner.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
