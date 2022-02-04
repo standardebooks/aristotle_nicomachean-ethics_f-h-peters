@@ -4,8 +4,8 @@
 	<style type="text/css">
 		path{
 			stroke: #000000;
-			stroke-width: 10;
 			stroke-opacity: 1;
+			stroke-width: 10;
 		}
 
 		text{
