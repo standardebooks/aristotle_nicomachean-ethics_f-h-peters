@@ -58,10 +58,10 @@
 		<meta property="file-as" refines="#translator">Peters, F. H.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Frank Hesketh Peters</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n88071771</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wfw</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Raphael</dc:contributor>
 		<meta property="file-as" refines="#artist">Raphael</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Raphael</meta>
@@ -72,11 +72,11 @@
 		<meta property="se:name.person.full-name" refines="#producer-1">David Michael Gross</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://sniggle.net/TPL</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 		<dc:contributor id="producer-2">Michael Atkinson</dc:contributor>
