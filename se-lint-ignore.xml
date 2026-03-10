@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="foreword.xhtml">
 		<ignore code="s-033">
+			<line>2</line>
 			<reason>While the body text is en-GB, the foreword was written by the SE producer in en-US.</reason>
 		</ignore>
 	</file>
