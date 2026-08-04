@@ -37,7 +37,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:abstract>Aristotle examines how one may live in the most thriving, excellent manner.</dc:abstract>
+		<meta property="schema:abstract">Aristotle examines how one may live in the most thriving, excellent manner.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/aristotle"&gt;Aristotle&lt;/a&gt; examines how best to live by looking at the nature of those virtues that characterize the most thriving human beings, and then at how to acquire and develop such virtues. This book is considered the founding document of what is now known as the “virtue ethics” tradition.&lt;/p&gt;
 			&lt;p&gt;Along the way, Aristotle delves into pleasure, happiness, justice, friendship, and willpower. He intended the &lt;i&gt;Nicomachean Ethics&lt;/i&gt; to be the foundation on which to build his &lt;i&gt;Politics&lt;/i&gt;.&lt;/p&gt;
