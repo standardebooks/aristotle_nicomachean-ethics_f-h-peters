@@ -15,12 +15,12 @@
 			text-anchor: middle;
 		}
 	</style>
-	<path d="M 10,375 H 1160"/>
-	<path d="M 229,82 H 1160"/>
-	<path d="M 229,226 H 1160"/>
-	<path d="M 459,110 V 85"/>
-	<path d="M 234,405 V 375"/>
-	<path d="M 459,405 V 375"/>
+	<path d="M10 375H1160"/>
+	<path d="M229 82H1160"/>
+	<path d="M229 226H1160"/>
+	<path d="M459 110V85"/>
+	<path d="M234 405V375"/>
+	<path d="M459 405V375"/>
 	<text x="458" y="60">E</text>
 	<text x="234" y="60">A</text>
 	<text x="1159" y="62">A′</text>
